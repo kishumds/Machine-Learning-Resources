@@ -186,4 +186,5 @@ This is a list of Free Machine Learning Resources. It include Roadmaps, YouTube 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-# Show some ❤️ by starring this repository!! ⭐
+*** 
+## Show some ❤️ by starring this repository!! ⭐
