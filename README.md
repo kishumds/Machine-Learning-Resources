@@ -73,6 +73,7 @@
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques for Building Intelligent Systems](https://amzn.to/3iLFiRm)
 * [Data Mining: Practical Machine Learning Tools and Techniques.](https://amzn.to/340LRLA)
 * [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/31Vno7J)
+* [Approaching (Almost) Any Machine Learning Problem](https://www.amzn.com/8269211508)
 * [The Hundred-Page Machine Learning Book](https://www.amzn.com/199957950X)
 * [Python Machine Learning](https://amzn.to/3kP4A2M)
 * [Pattern Recognition and Machine Learning](https://www.amzn.com/0387310738)
