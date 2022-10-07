@@ -1,6 +1,5 @@
 # Machine Learning Resources
 
-This is a list of Free Machine Learning Resources. It include Roadmaps, YouTube Channels, Books, Blogs, Podcasts, Project Ideas,...
 
 ![Machine Learning](https://user-images.githubusercontent.com/88129183/194419153-0da360ef-1237-4817-bccc-8f7e27f6dd98.png)
 
@@ -184,7 +183,7 @@ This is a list of Free Machine Learning Resources. It include Roadmaps, YouTube 
 ***
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull Requests are Welcome!!!
 
 *** 
 ## Show some ❤️ by starring this repository!! ⭐
