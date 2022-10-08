@@ -54,7 +54,7 @@
 * [Josh Starmer](https://www.youtube.com/user/krishnaik06)
 * [Ken Jee](https://www.youtube.com/c/KenJee1)
 * [DataSchool](https://www.youtube.com/c/dataschool)
-
+* [CampusX](https://www.youtube.com/c/CampusX-official)
 ***
 
 ## Blogs
