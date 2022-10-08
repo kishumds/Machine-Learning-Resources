@@ -55,6 +55,11 @@
 * [Ken Jee](https://www.youtube.com/c/KenJee1)
 * [DataSchool](https://www.youtube.com/c/dataschool)
 * [CampusX](https://www.youtube.com/c/CampusX-official)
+* [codebasics](https://www.youtube.com/c/codebasics)
+* [Data Professor](https://www.youtube.com/c/DataProfessor)
+* [Abhishek Thakur](https://www.youtube.com/c/AbhishekThakurAbhi)
+* [Andreas Mueller](https://www.youtube.com/c/AndreasMueller)
+* [HuggingFace](https://www.youtube.com/c/HuggingFace)
 ***
 
 ## Blogs
@@ -66,6 +71,8 @@
 * [BAIR Blog](https://bair.berkeley.edu/blog/)
 * [DeepMind's Blog](https://deepmind.com/blog/)
 * [NVIDIA](https://blogs.nvidia.com/blog/category/deep-learning/)
+* [Google Developers Blog](https://developers.googleblog.com/)
+* [DZone](https://dzone.com/)
 
 ***
 
@@ -98,7 +105,9 @@
 * [Linear Digressions](http://lineardigressions.com/)
 * [O'Reilly Data Show](https://www.oreilly.com/radar/topics/oreilly-data-show-podcast/)
 * [The Talking Machines](https://www.thetalkingmachines.com/)
-
+* [Practical AI](https://changelog.com/practicalai)
+* [Lex Fridman Podcast](https://lexfridman.com/podcast/)
+* [Talk Python To Me](https://talkpython.fm/)
 ***
 
 ## Dataset
@@ -123,6 +132,21 @@
 * [PyTorch](https://pytorch.org/)
 * [Scipy](https://scipy.org/)
 * [Theano](https://pypi.org/project/Theano/)
+* [XGBoost](https://xgboost.ai/)
+* [LightGBM](https://lightgbm.readthedocs.io/en/latest/)
+* [Bokeh](https://bokeh.org/)
+* [Plotly](https://plotly.com/python/)
+* [Graphviz](https://graphviz.readthedocs.io/en/stable/)
+* [Folium](https://python-visualization.github.io/folium/)
+* [Transformers](https://huggingface.co/docs/transformers/index)
+* [spaCy](https://spacy.io/)
+* [NLTK](https://www.nltk.org/)
+* [Pillow](https://python-pillow.org/)
+* [opencv-python](https://pypi.org/project/opencv-python/)
+* [scikit-image](https://scikit-image.org/)
+* [Streamlit](https://streamlit.io/)
+* [Gradio](https://www.gradio.app/)
+* [fastai](https://docs.fast.ai/)
 
 ***
 
