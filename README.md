@@ -73,6 +73,7 @@
 * [NVIDIA](https://blogs.nvidia.com/blog/category/deep-learning/)
 * [Google Developers Blog](https://developers.googleblog.com/)
 * [DZone](https://dzone.com/)
+* [Fennel](https://fennel.ai/blog/)
 
 ***
 
